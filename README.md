@@ -1,2 +1,2 @@
-# pretalemos.github.io
+# pretalemos.githu
 GitHub Pages
